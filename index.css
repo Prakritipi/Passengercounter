@@ -45,5 +45,8 @@ button {
     background: darkgreen;
 }
 
-
+#save-el{
+    font-color: white;
+    font-weight: bold;
+}
 
